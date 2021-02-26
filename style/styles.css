@@ -1,0 +1,77 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+
+body
+{
+    background: #4c8c9c;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    line-height: 20px;
+    color: #111;
+}
+
+a
+{
+    text-decoration: none;
+    color: #132b47;
+}
+
+a:hover
+{
+    text-decoration: underline;
+    color: #9e2525;
+}
+
+#wrap
+{
+    margin: 20px auto;
+    width: 810px;
+    background-color: #4c8c9c;
+}
+
+
+#header
+{
+    height: 220px;
+}
+
+#address
+{
+    float: right;
+    text-align: right;
+    padding: 13px 30px 0 20px;
+    color: #111;
+    font-size: 11px;
+}
+
+#address h2
+{
+    font-size: 18px;
+    line-height: 180%;
+    letter-spacing: 1px;
+}
+
+#menu
+{
+    height: 30px;
+    line-height: 30px;
+    color: #ddd;
+    letter-spacing: -0.1px;
+}
+
+#content
+{
+    background: url("images/background-anderson.jpg") repeat-y scroll 0 0 #4c8c9c;
+    padding: 0 20px 20px 20px;
+    text-align: justify;
+    min-height: 300px;
+}
+
+#photo
+{
+    padding: 18px;
+    padding-left: 35px;
+}
